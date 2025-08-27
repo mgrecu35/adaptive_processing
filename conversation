@@ -7,3 +7,17 @@ It is always worth exploring and testing new operation modes, but before these m
 Regarding the element gain, Phased Antenna Handbook outlines "detailed calculations involving the most fundamental electromagnetic analysis" to derive the best estimates but I don't have an implementation of those calculations. Ivan also thinks these numbers should be reconciled and he inclines to believe that the calculations considering only the radiating area are more accurate. 
 
 Thanks again for your input.
+
+Hi Jason,
+
+Thanks for the thoughtful feedback. I agree that sticking with the proven configuration is the prudent path while we build more evidence.
+
+For context, my linear-programming analysis is valid under reasonable—but not necessarily the most relevant—scenarios, and it doesn’t include computational costs. Extending detection range via longer or more pulses increases the processing load for pulse compression and tracking, which could affect latency and reliability.
+
+I do think it’s worth exploring new operating modes, but I’d suggest we do that through targeted simulations or controlled tests before making any changes. When Ivan is back, he can help prioritize the cases most likely to deliver practical gains.
+
+On the antenna element gain: the Phased Array Antenna Handbook details first-principles EM approaches for more accurate estimates, which I don’t currently have implemented. Ivan also noted that these numbers should be reconciled, and his view is that calculations based on the actual radiating area are likely more accurate than using the circumscribed square. I’m happy to draft a short note comparing the two approaches—and the impact on array gain/EIRP for our geometry—so we can align on a consistent method.
+
+Thanks again for your guidance.
+
+Best,
