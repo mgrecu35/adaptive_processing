@@ -1,0 +1,9 @@
+Hi Jason,
+
+I agree with you. My calculations are valid under reasonable but not necessarily the most relevant scenarios. They don't account for computational costs either. Increasing the detection range through either longer or more pulses increases the computational costs associated with pulse compression and tracking.
+
+It is always worth exploring and testing new operation modes, but before these modes are tested either experimentally or through simulations it is prudent to go with what has been already proven.  Ivan can guide this type of investigation into the direction most likely to yield practical results when he returns.
+
+Regarding the element gain, Phased Antenna Handbook outlines "detailed calculations involving the most fundamental electromagnetic analysis" to derive the best estimates but I don't have an implementation of those calculations. Ivan also thinks these numbers should be reconciled and he inclines to believe that the calculations considering only the radiating area are more accurate. 
+
+Thanks again for your input.
