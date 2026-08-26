@@ -1,0 +1,112 @@
+Yes. I think you should take this seriously, but not as an escape plan from your current manager. The right strategy is to treat the Northrop Grumman opportunity as an opportunity to re-price yourself in the market and find out what level the market actually assigns to your current capabilities.
+
+And the recruiter interview is more meaningful than it may feel. It doesn't mean you'll get an offer, but they have already looked at your application and decided that a conversation is worth having.
+
+I looked at the current Northrop Grumman radar/modeling positions, and there is an interesting signal here: their Baltimore/Linthicum organization is actively hiring in essentially the area you're targeting. Their current radar modeling roles explicitly involve modeling/simulation, radar performance, statistics, C++/MATLAB, and analysis. Their engineering career material also specifically lists radar and RF engineering as areas of hiring.
+
+I would adopt a three-stage strategy
+
+Stage 1: The recruiter conversation — gather information, don't negotiate against yourself.
+
+Your objective is not to convince them to hire you at this point. It's to determine:
+
+What level are they considering you for?
+What is the actual work?
+Who is the hiring organization?
+Is the position principally radar modeling, radar systems, signal processing, or software engineering?
+How much MATLAB/C++/Python is involved?
+What is the clearance situation?
+What is the salary range?
+Is it actually a senior/principal-level position despite whatever title appeared on the application?
+What is the work arrangement—particularly on-site requirements?
+What does the interview process look like?
+
+One question I would ask fairly early is:
+
+"Could you tell me what level you're considering me for and the salary range associated with that level?"
+
+That's entirely reasonable. You're not asking for a commitment. You're establishing whether this is potentially worth pursuing.
+
+And don't anchor them to your current salary.
+
+If they ask what you're making, I'd be inclined to say something like:
+
+"I'm primarily interested in understanding the scope and level of the position and whether we're aligned there. My current compensation isn't necessarily a good benchmark for the market value of this role."
+
+You don't need to be evasive, but there's little advantage in telling them, "I make X and would be happy with X+10%."
+
+Stage 2: The technical interviews — sell the trajectory, not the gaps
+
+This is particularly important in your case.
+
+You went into your current position accepting a lower level because you didn't have some of the domain-specific experience. Seven months later, that argument has changed.
+
+You have acquired the experience.
+
+And from everything you've described about the work you've been doing, your story isn't:
+
+"I'm an engineer who has been doing what my manager told me to do for seven months."
+
+It's closer to:
+
+"I entered a radar engineering environment with some gaps in domain-specific experience, learned the system rapidly, and have since been independently solving difficult radar signal-processing/modeling problems and implementing them in an operational environment."
+
+That's a much stronger story.
+
+The recent work you've described gives you some unusually good interview material:
+
+radar detection and CFAR
+clutter characterization
+range-Doppler behavior
+Doppler/range-rate interpretation
+modeling of clutter behavior
+MATLAB → C implementation
+performance optimization
+operational constraints
+validation using playback data
+understanding the difference between an algorithm that works and one that can actually run operationally
+dealing with an existing complex system rather than designing something from scratch
+
+That's real engineering experience, and importantly, it is experience that maps well to a modeling/simulation/analysis organization.
+
+The Northrop position I found, for example, explicitly describes modeling and simulation of sensors and their interaction with the environment, large-scale analytics/statistics, and performance analysis. Another current Northrop modeling position specifically asks for RF propagation physics, receiver/transmitter characterization, sensitivity/bounding analysis, and radar signal-processing effects on performance.
+
+So I would prepare your story around technical independence and breadth.
+
+Stage 3: If they make an offer, evaluate the whole job, not just salary
+
+This is where I think you need to be somewhat disciplined.
+
+You have three separate reasons to consider leaving:
+
+Compensation
+Career level / recognition
+Management environment
+
+The third one is potentially the most important.
+
+Your current situation seems to have an unusual combination: you actually like the technical work, but the way decisions are made and the way your manager interacts with people is wearing you down.
+
+That's dangerous because it can cause you to conclude:
+
+"I need to leave this company."
+
+when the more accurate conclusion might be:
+
+"I need to leave this management situation."
+
+Those are not the same thing.
+
+So if Northrop comes through, I'd investigate the specific manager and team extremely carefully. Don't assume "Northrop Grumman" means a particular management culture. A large organization can have excellent groups and terrible groups sitting next to one another.
+
+I'd ask the prospective technical people questions such as:
+
+"How are technical disagreements normally resolved?"
+"How much latitude does an engineer have in choosing an implementation?"
+"How are new approaches evaluated?"
+"How much of the work is exploratory versus requirements-driven?"
+"What happens when an engineer believes the requested approach isn't technically optimal?"
+"How much time is spent maintaining existing systems versus developing new capabilities?"
+"How long do people typically stay on this team?"
+"What does a successful first year look like?"
+"How are engineers promoted from one level to the next?"
